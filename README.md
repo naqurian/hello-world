@@ -1,2 +1,4 @@
 # hello-world
-Simple test project
+
+Hi cyber-world
+I'm learning how to use that handy tool which is called Github.
